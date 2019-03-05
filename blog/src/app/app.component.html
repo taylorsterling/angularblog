@@ -1,55 +1,23 @@
-<!--The content below is only a placeholder and can be replaced.-->
+<nav class="navbar sticky-top navbar-dark bg-dark navbar-expand-lg">
+  <a class="navbar-brand">Taylor's Blog</a>
 
-<div class="container-fluid">
-  <div class="row header">
-    <div class="col-sm-12">
-      <h1>Welcome!</h1>
-    </div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="nav justify-content-end navbar-nav mr-auto mt-2 mt-lg-0">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/recipes">Recipes</a>
+      </li>
+    </ul>
   </div>
-</div>
-
-<div class="container-fluid">
-  <div class="row row1">
-    <div class="col-sm-4">
-      <div class="container">
-
-        <div id="carouselExampleSlidesOnly" class="carousel slide mx-auto d-block" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="../assets/media/me.jpg" class="d-block w-100" alt="us2">
-            </div>
-            <div class="carousel-item">
-              <img src="../assets/media/bear.jpg" class="d-block w-100" alt="us">
-            </div>
-            <div class="carousel-item">
-              <img src="../assets/media/me2.jpg" class="d-block w-100" alt="me2">
-            </div>
-            <div class="carousel-item">
-              <img src="../assets/media/us.jpg" class="d-block w-100" alt="us">
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="col-sm-8">
-      <div id="landing">
-        <h3>WIFE | CHEF | GAMER</h3>
-        <p>I'm Taylor- a newlywed gamer with a passion for cooking. Please feel welcome to peruse my blog
-          and find articles on gaming, recipes to share, and plenty of pet pictures!
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="container-fluid">
-  <div class="row row1">
-    <div class="col-sm-12">
-      <h3>BLOG UPDATE:</h3>
-      <p>I've added some new recipes! Enough to satisfy your time- management needs, savory cravings, and even your
-        sweet tooth!</p>
-    </div>
-  </div>
-</div>
+</nav>
+<router-outlet></router-outlet>
