@@ -1,20 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
-
 html, body {
     
-    background-color: #34ADFF;
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 35%, #4CBFFF 35%);
+    background-color: rgb(255, 173, 51);
+    background-image: -webkit-linear-gradient(150deg, #ffad33 50%, #ffc266 50%);
     min-height: 700px;
-    height: 100vh;
-
 
 }
-
-.my-container{
-    width: 100vw;
-    height: 100vh;
-    
-  }
 
 .navbar {
     background-color: rgb(192, 188, 188);
@@ -49,28 +39,23 @@ h1 {
     text-align: center;
 }
 
-.row1 {
-    margin-bottom: 3%;
+.media {
+    margin: 3%;
+
 }
 
-.carousel {
-    width: 62%;
-    align-self: center;
+.align-self-center {
+    width: 22%;
 }
 
-#landing {
-    margin-top: 3%;
-    
-}
-
-h3 {
+h5 {
     font-family: 'Playfair Display', serif;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     text-align: center;
 }
 
 p {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
