@@ -2,10 +2,10 @@
 
 html, body {
   
-Background-color: #34ADFF;
-Background-image: -webkit-linear-gradient (150deg, 355; #4CBFFF 35%);
-Min-height: 700px;
-Height: 100vh;
+    background-color: #34ADFF;
+    background-image: -webkit-linear-gradient(150deg, #34ADFF 35%, #4CBFFF 35%);
+    min-height: 700px;
+    height: 100vh;
 
 
 
