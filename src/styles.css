@@ -3,7 +3,7 @@
 html, body {
   
     background-color: #34ADFF;
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 35%, #4CBFFF 35%);
+    background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
     min-height: 700px;
     height: 100vh;
 
