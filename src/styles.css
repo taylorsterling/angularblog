@@ -2,14 +2,19 @@
 
 html, body {
   
-    background-color: #34ADFF;
+   /* background-color: #34ADFF;
     background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
-    /*min-height: 700px;*/
+    min-height: 700px;
     min-height: 100%;
     min-width: 100%;
     height: 100%;
     width: 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
+  
+  Background-color: rgb(255, 173, 51);
+Background-image: -webkit-linear-gradient (150deg, #ffad33 50%, #ffc266 50%);
+Min-height: 700px;
+
 
 
 }
