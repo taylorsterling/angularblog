@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 
-html {
+body {
   
    /* background-color: #34ADFF;
     background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
@@ -11,8 +11,8 @@ html {
     width: 100%;
     background-repeat: no-repeat;*/
     
-    background-color: #ffad33;
-    background-image: -webkit-linear-gradient(150deg, #ffad33 50%, #ffc266 50%);
+    background-color: #34ADFF;
+    background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
     min-height: 700px;
 
 
