@@ -34,7 +34,7 @@ body {
 }
 
 .bg-dark {
-  background-color: 2f005e;
+    background-color: #2f005e!important;
 }
 
 a {
