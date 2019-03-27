@@ -6,7 +6,7 @@ html, body {
     background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
     /*min-height: 700px;*/
     height: 100vh;
-
+    background-repeat: no-repeat;
 
 
 }
