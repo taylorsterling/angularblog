@@ -11,10 +11,10 @@ html, body {
     width: 100%;
     background-repeat: no-repeat;*/
     
-    background-color: rgb(255, 173, 51);
+    background-color: #ffad33;
     background-image: -webkit-linear-gradient(150deg, #ffad33 50%, #ffc266 50%);
     min-height: 700px;
-  
+    background-repeat: no-repeat;
 
 }
 
