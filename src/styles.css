@@ -10,12 +10,11 @@ html, body {
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;*/
+    
+    background-color: rgb(255, 173, 51);
+    background-image: -webkit-linear-gradient(150deg, #ffad33 50%, #ffc266 50%);
+    min-height: 700px;
   
-  Background-color: rgb(255, 173, 51);
-Background-image: -webkit-linear-gradient (150deg, #ffad33 50%, #ffc266 50%);
-Min-height: 700px;
-
-
 
 }
 
