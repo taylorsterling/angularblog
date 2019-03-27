@@ -39,6 +39,7 @@ a {
 
 a:hover {
     color: #cecece;
+    text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -49,6 +50,7 @@ a:not([href]):not([tabindex]) {
     font-family: 'Rochester', cursive;
     font-size: 2rem;
     text-shadow: 0 0 3px white;
+    text-decoration: none;
 }
 
 .header {
