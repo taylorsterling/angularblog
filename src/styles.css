@@ -48,7 +48,7 @@ a:not([href]):not([tabindex]) {
 .navbar-brand {
     font-family: Dancing Script;
     font-size: 1.75rem;
-    color: white;
+    text-shadow: 0 0 3px white;
 }
 
 .header {
