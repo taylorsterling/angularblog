@@ -25,16 +25,12 @@ body {
   }
 
 .navbar {
-/*     background-color: rgb(192, 188, 188); */
-     background-color: 2f005e;
-     border-bottom: solid;
-     border-bottom-width: 2px;
-     border-bottom-color: #db3600;
-  
+    background-color: rgb(192, 188, 188);
+
 }
 
-.bg-dark {
-    background-color: #2f005e!important;
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
 }
 
 a {
@@ -42,7 +38,7 @@ a {
 }
 
 a:hover {
-    color: #db3600;
+    color: #cecece;
 }
 
 a:not([href]):not([tabindex]) {
