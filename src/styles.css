@@ -46,7 +46,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .navbar-brand {
-    font-family: Dancing Script;
+    font-family: 'Rochester', cursive;
     font-size: 1.75rem;
     text-shadow: 0 0 3px white;
 }
