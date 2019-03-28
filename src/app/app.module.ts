@@ -13,6 +13,7 @@ import { PastaComponent } from './recipes/pasta/pasta.component';
 import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
 import { GamingComponent } from './gaming/gaming.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { SpyroComponent } from './gaming/spyro/spyro.component';
     PastaComponent,
     ChickentacosComponent,
     GamingComponent,
-    SpyroComponent
+    SpyroComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
