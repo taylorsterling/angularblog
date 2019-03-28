@@ -55,11 +55,12 @@ a:not([href]):not([tabindex]) {
 
 #logo {
     width: 10rem;
-}
-
-.ml-auto, .mx-auto {
     margin-left: 0!important;
 }
+
+/* .ml-auto, .mx-auto {
+    margin-left: 0!important;
+} */
 
 .header {
     margin-top: 3%;
