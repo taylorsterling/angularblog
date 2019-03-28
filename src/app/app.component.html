@@ -1,5 +1,8 @@
 <nav class="navbar sticky-top navbar-dark bg-dark navbar-expand-lg">
-  <h6 class="navbar-brand"><a routerLink="/home"><font color="#2f005e">Pepper</font><font color="#db3600">Fig</font></a></h6>
+  <h6 class="navbar-brand"><a routerLink="/home">
+      <b id="pepper">Pepper</b>
+      <b id="fig">Fig</b>
+    </a></h6>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
     aria-expanded="false" aria-label="Toggle navigation">
@@ -17,7 +20,14 @@
       <li class="nav-item">
         <a class="nav-link" routerLink="/recipes">Recipes</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/gaming">Gaming</a>
+      </li>
     </ul>
   </div>
 </nav>
+
+<!-- 
+<h1>{{recipe}}</h1>
+<app-recipes></app-recipes> -->
 <router-outlet></router-outlet>

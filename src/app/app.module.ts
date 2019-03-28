@@ -11,6 +11,8 @@ import { LeanComponent } from './recipes/lean/lean.component';
 import { DessertComponent } from './recipes/dessert/dessert.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
 import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
+import { GamingComponent } from './gaming/gaming.component';
+import { SpyroComponent } from './gaming/spyro/spyro.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos
     LeanComponent,
     DessertComponent,
     PastaComponent,
-    ChickentacosComponent
+    ChickentacosComponent,
+    GamingComponent,
+    SpyroComponent
   ],
   imports: [
     BrowserModule,
