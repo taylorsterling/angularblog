@@ -14,6 +14,7 @@ import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos
 import { GamingComponent } from './gaming/gaming.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { AboutComponent } from './about/about.component';
+import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { AboutComponent } from './about/about.component';
     ChickentacosComponent,
     GamingComponent,
     SpyroComponent,
-    AboutComponent
+    AboutComponent,
+    ChickenalfredoComponent
   ],
   imports: [
     BrowserModule,
