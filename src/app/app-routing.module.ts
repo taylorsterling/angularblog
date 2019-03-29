@@ -8,7 +8,7 @@ import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { QuickComponent } from './recipes/quick/quick.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
 import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
-import { ChickenalfredoComponent } from './recipes/quick/chickenalfredo/chickenalfredo.component';
+import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
