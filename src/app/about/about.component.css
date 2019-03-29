@@ -1,19 +1,23 @@
 #profile {
-    width: 14rem;
+    width: 12rem;
+    float: left;
+    margin-right: 2%;
 }
 
 #kenia {
-    width: 14rem;
+    width: 10rem;
     margin-left: 2%;
+    float: right;
 }
 
-.align-self-center {
-    width: 22%;
+#engaged {
+    width: 10rem;
+    float: left;
+    margin-right: 2%;
 }
 
-.media {
-    margin: 3%;
-
+.aboutparagraphs {
+    margin-bottom: 5%;
 }
 
 h1 {
@@ -24,14 +28,21 @@ h1 {
 
 h5 {
     font-family: 'Playfair Display', serif;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     text-align: center;
 }
 
-p {
-    text-align: center;
+.left {
+    text-align: left;
     font-family: 'Raleway', sans-serif;
     font-size: 0.9rem;
+}
+
+.right {
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.9rem;
+
 }
 
 .info {
