@@ -7,7 +7,7 @@ import { GamingComponent } from './gaming/gaming.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { QuickComponent } from './recipes/quick/quick.component';
 import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
-
+import { ChickenalfredoComponent } from './recipes/quick/chickenalfredo/chickenalfredo.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -18,6 +18,7 @@ const routes: Routes = [
   { path: 'gaming', component: GamingComponent },
   { path: 'spyro', component: SpyroComponent },
   { path: 'about', component: AboutComponent },
+  { path: 'chickenalfredo', component: ChickenalfredoComponent},
 
 ];
 
