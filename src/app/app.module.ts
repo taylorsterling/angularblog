@@ -10,13 +10,13 @@ import { CrockpotComponent } from './recipes/crockpot/crockpot.component';
 import { LeanComponent } from './recipes/lean/lean.component';
 import { DessertComponent } from './recipes/dessert/dessert.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
-import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
 import { GamingComponent } from './gaming/gaming.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { AboutComponent } from './about/about.component';
 import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
 import { PetsComponent } from './pets/pets.component';
 import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
+import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
 
 @NgModule({
   declarations: [
@@ -28,13 +28,13 @@ import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.com
     LeanComponent,
     DessertComponent,
     PastaComponent,
-    ChickentacosComponent,
     GamingComponent,
     SpyroComponent,
     AboutComponent,
     ChickenalfredoComponent,
     PetsComponent,
-    RecipeDetailComponent
+    RecipeDetailComponent,
+    FoodtastingComponent
   ],
   imports: [
     BrowserModule,

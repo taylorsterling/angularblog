@@ -1,3 +1,9 @@
+#foodtasting {
+    margin: 0 auto;
+    display: flex;
+    margin-top: 3%;
+}
+
 html, body {
     
     background-color: rgb(255, 173, 51);

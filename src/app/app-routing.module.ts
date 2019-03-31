@@ -9,8 +9,8 @@ import { PetsComponent } from './pets/pets.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { QuickComponent } from './recipes/quick/quick.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
-import { ChickentacosComponent } from './recipes/quick/chickentacos/chickentacos.component';
 import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
+import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -20,11 +20,11 @@ const routes: Routes = [
   { path: 'pets', component: PetsComponent },
   { path: 'quick', component: QuickComponent },
   { path: 'pasta', component: PastaComponent },
-  { path: 'chickentacos', component: ChickentacosComponent},
   { path: 'gaming', component: GamingComponent },
   { path: 'spyro', component: SpyroComponent },
   { path: 'about', component: AboutComponent },
   { path: 'chickenalfredo', component: ChickenalfredoComponent},
+  { path: 'foodtasting', component: FoodtastingComponent },
 
 ];
 
