@@ -7,7 +7,7 @@ export class Recipe {
     intro2_title: string;
     intro2_body: string;
     intro2_image: string;
-    prep_minutes: number;
+    prep_time: string;
     yield: string;
     ingredients: string[];
     optional_ingredients: string[];

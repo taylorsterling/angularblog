@@ -10,7 +10,7 @@ export const RECIPES: Recipe[] = [
         intro2_title: 'The Breakthrough',
         intro2_body: 'Inspired by our attempts to get healthier, one night he substituted our typical taco beef with some pan- seared chicken. The first time around, caught up in our time- crunched, health- conscious minds, they weren\'t as exciting as the usual meaty tacos we\'re accustomed to.\nI had the idea to, "Dress up," the tacos in some fabulous (and healthy) toppings. One Taco Tuesday later and we were in business! Fresh pico de gallo, creamy avocado, salsa verde, and yep- even a bit of cheese made these almost- diet tacos worthy of our pallets.',
         intro2_image: 'assets/media/tacos.jpg',
-        prep_minutes: 20,
+        prep_time: "20 minutes",
         yield: '4 tacos',
         ingredients: [
           '4 boneless skinless chicken breast tenders',
