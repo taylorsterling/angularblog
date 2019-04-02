@@ -39,15 +39,6 @@ h1 {
     text-align: center;
 }
 
-.media {
-    margin: 3%;
-
-}
-
-.align-self-center {
-    width: 22%;
-}
-
 h5 {
     font-family: 'Playfair Display', serif;
     font-size: 1.4rem;
@@ -58,4 +49,10 @@ p {
     text-align: center;
     font-family: 'Raleway', sans-serif;
     font-size: 0.9rem;
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+    margin: auto;
 }
