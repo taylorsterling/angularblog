@@ -13,7 +13,7 @@ import { PastaComponent } from './recipes/pasta/pasta.component';
 import { GamingComponent } from './gaming/gaming.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { AboutComponent } from './about/about.component';
-import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
+
 import { PetsComponent } from './pets/pets.component';
 import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
 import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
@@ -31,7 +31,7 @@ import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
     GamingComponent,
     SpyroComponent,
     AboutComponent,
-    ChickenalfredoComponent,
+
     PetsComponent,
     RecipeDetailComponent,
     FoodtastingComponent

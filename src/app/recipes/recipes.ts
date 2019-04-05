@@ -17,15 +17,15 @@ export const RECIPES: Recipe[] = [
           'Salt and pepper to taste',
           '2 TBSP vegetable oil (separated in half)',
           '1 TBSP creole seasoning (Our favorite is Tony\'s)',
-          '4 White corn tortillas (Our go to: Guerrero\'s)'
-        ],
-        optional_ingredients: [
+          '4 White corn tortillas (Our go to: Guerrero\'s)',
+          'Optional:',
           '1 Sliced avocado',
           '4oz Pico de gallo',
           '1 pinch Cojita cheese (per taco)',
           'Drizzle of salsa verde (per taco) Check out our fave: Herdez',
           'Fresh- squeezed lime juice (to taste)'
         ],
+        
         instructions: [
           'Grab a good size non- stick pan, drizzle with one portion of oil, and put it on the stove over med-low heat.',
           'My husband has cooked the chicken two different ways. You can either cut the chicken into bite- sized pieces, or using a knife you can carefully slice each tender vertically down the middle, about halfway through the breast, and cook them whole. Prepare your chicken accordingly.',
@@ -36,6 +36,63 @@ export const RECIPES: Recipe[] = [
           'Place fried tortillas on a plate- just watch out as they\'ll be hot!',
           'Spread around chicken evenly if cooked in pieces, or place 1 tender in the center of each taco.',
           'Prepare your toppings and add as much as you like!'
+        ]
+      },
+
+
+
+
+
+
+
+
+      {
+        id: 2,
+        name: 'Chicken Alfredo with Broccoli',
+        intro1_title: 'From Humble Beginnings',
+        intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
+        intro1_image: 'assets/media/tacochicken.jpg',
+        intro2_title: 'Not Your Average Alfredo',
+        intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
+        intro2_image: 'assets/media/tacos.jpg',
+        prep_time: "25- 30 minutes",
+        yield: '8- 10 servings (Italian size!)',
+        ingredients: [
+          '8-10 boneless skinless chicken breast tenders',
+          'Salt and pepper to taste',
+          '½ tbsp garlic powder',
+          '1 tsp lemon pepper seasoning',
+          '1 tsp paprika',
+          '½ tbsp dried Italian seasoning',
+          '1 tbsp extra virgin olive oil',
+          '1 box Barilla fettuccine',
+          '½ tbsp extra- virgin olive oil',
+          '1 tbsp salt',
+          '1 bag frozen broccoli florets',
+          ' tsp extra- virgin olive oil',
+          '¼ cup dry white wine',
+          '½ tbsp minced garlic',
+          '12 oz heavy whipping cream',
+          '½ tsp salt (or to taste)',
+          '½ tsp pepper (or to taste)',
+          '1 moderate pinch dry Italian seasoning',
+          '6 oz Pecorino Romano (or grated parmesan)',
+          '¼ fresh lemon for juice'
+
+        ],
+
+        instructions: [
+          'Fill a pot about ¾ of the way with water and put on the stove. Add salt and olive oil, then crank that heat up high so it comes to a boil.',
+          'Drizzle olive oil for the chicken into a big, non-stick pan. Turn burner on medium heat.',
+          'Carefully cut chicken into bite- sized pieces (or larger, if you prefer). Season with salt, pepper, garlic powder, and lemon pepper. Transfer to pan, and let it cook for about 3-4 minutes until the bottoms of the chicken start to turn golden- brown.',
+          'Once the water is boiling, gently add the fettuccine to the pot, and cook according to instructions (or to texture preference). When the noodles are flexible but still have a lot of bite to them, add the frozen broccoli directly into the pot with the pasta.',
+          'Sprinkle paprika and italian seasoning in the pan once you see some juice expelled from the chicken. Continue to cook on medium heat, covered and stirring occasionally, until the chicken is cooked all the way through. If the chicken starts to cook through too fast before the pasta is ready, lower the heat to a light simmer and uncover.',
+          'To start the sauce, grab a sauce pan or small pot and put it on med heat over the stove. Drizzle in the olive oil, and add the white wine until it reduces to about ½.',
+          'Add the garlic to the sauce, constantly stirring until fragrant- this should only take about 10 seconds or so. Pour in the heavy cream, then season with salt and pepper. Raise the heat to med-high, and let the cream come to a gentle boil.',
+          'Once the cream is bubbling, add the cheese in small increments until you reach your desired sauce consistency, stirring steadily. Add in the Italian seasoning, and squeeze the lemon juice into the sauce, stirring and tasting until the acidity from the lemon is able to subtly cut through the richness of the sauce.',
+          'When the pasta is cooked to your liking, very carefully strain it to dump out all the water. Return the pasta to the pot, and add the cooked chicken - including its juices. Carefully pour in the sauce, and stir it well to mix the pasta, broccoli, and chicken together evenly.',
+          'Optional: Pour the Alfredo into a serving dish and sprinkle with fresh parmesan and parsley to garnish. Don’t forget to serve it with some garlic bread!'
+
         ]
       }
 

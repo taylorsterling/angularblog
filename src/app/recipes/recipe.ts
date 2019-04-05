@@ -10,6 +10,6 @@ export class Recipe {
     prep_time: string;
     yield: string;
     ingredients: string[];
-    optional_ingredients: string[];
+    // optional_ingredients: string[];
     instructions: string[];
   }

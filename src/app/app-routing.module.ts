@@ -9,7 +9,7 @@ import { PetsComponent } from './pets/pets.component';
 import { SpyroComponent } from './gaming/spyro/spyro.component';
 import { QuickComponent } from './recipes/quick/quick.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
-import { ChickenalfredoComponent } from './recipes/pasta/chickenalfredo/chickenalfredo.component';
+
 import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
 
 const routes: Routes = [
@@ -23,7 +23,7 @@ const routes: Routes = [
   { path: 'gaming', component: GamingComponent },
   { path: 'spyro', component: SpyroComponent },
   { path: 'about', component: AboutComponent },
-  { path: 'chickenalfredo', component: ChickenalfredoComponent},
+
   { path: 'foodtasting', component: FoodtastingComponent },
 
 ];
