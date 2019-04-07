@@ -17,6 +17,8 @@ import { AboutComponent } from './about/about.component';
 import { PetsComponent } from './pets/pets.component';
 import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
 import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
+import { BearrescueComponent } from './pets/bearrescue/bearrescue.component';
+import { FiggystoryComponent } from './pets/figgystory/figgystory.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +36,9 @@ import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
 
     PetsComponent,
     RecipeDetailComponent,
-    FoodtastingComponent
+    FoodtastingComponent,
+    BearrescueComponent,
+    FiggystoryComponent
   ],
   imports: [
     BrowserModule,

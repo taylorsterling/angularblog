@@ -11,6 +11,7 @@ import { QuickComponent } from './recipes/quick/quick.component';
 import { PastaComponent } from './recipes/pasta/pasta.component';
 
 import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
+import { BearrescueComponent } from './pets/bearrescue/bearrescue.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -25,6 +26,7 @@ const routes: Routes = [
   { path: 'about', component: AboutComponent },
 
   { path: 'foodtasting', component: FoodtastingComponent },
+  { path: 'bearrescue', component: BearrescueComponent },
 
 ];
 
