@@ -112,7 +112,7 @@ export const RECIPES: Recipe[] = [
   id: 3,
   name: 'Peanut Butter Cookies',
   intro1_title: 'A Holiday Classic',
-  intro1_body: 'Oh I\'ve had this one since high school! After baking cookies in HomeEc, I decided to adapt a few recipes we had to create the PERFECT peanut butter cookie recipe! I chose these cookies to be my first official dessert recipe because of my childhood memories of them. Every Christmas, no matter which side of my family I was with, we\'d have a big platter of cookies, and these ones with the Hershey Kisses were always my go- to!',
+  intro1_body: 'I\'ve had this one since high school! After baking cookies in HomeEc, I decided to adapt a few recipes we had to create the PERFECT peanut butter cookie recipe! I chose these cookies to be my first official dessert recipe because of my childhood memories of them. Every Christmas, no matter which side of my family I was with, we\'d have a big platter of cookies, and these ones with the Hershey Kisses were always my go- to!',
   intro1_image: 'assets/media/pbcookies2.jpg',
   intro2_title: 'So Good Year Round',
   intro2_body: 'Despite being my favorite holiday cookie, these are delicious no matter what time of year you bake them! Admittedly I\m not even a huge fan of peanut butter, but I can never eat just one of these! Give them a try and enjoy some yourself!',
