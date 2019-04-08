@@ -51,10 +51,10 @@ export const RECIPES: Recipe[] = [
         name: 'Chicken Alfredo with Broccoli',
         intro1_title: 'From Humble Beginnings',
         intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
-        intro1_image: 'assets/media/tacochicken.jpg',
+        intro1_image: 'assets/media/pasta.jpg',
         intro2_title: 'Not Your Average Alfredo',
         intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
-        intro2_image: 'assets/media/tacos.jpg',
+        intro2_image: 'assets/media/alfredo.JPG',
         prep_time: "25- 30 minutes",
         yield: '8- 10 servings (Italian size!)',
         ingredients: [
@@ -94,6 +94,59 @@ export const RECIPES: Recipe[] = [
           'Optional: Pour the Alfredo into a serving dish and sprinkle with fresh parmesan and parsley to garnish. Don’t forget to serve it with some garlic bread!'
 
         ]
-      }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  id: 3,
+  name: 'Peanut Butter Cookies',
+  intro1_title: 'A Holiday Classic',
+  intro1_body: 'Oh I\'ve had this one since high school! After baking cookies in HomeEc, I decided to adapt a few recipes we had to create the PERFECT peanut butter cookie recipe! I chose these cookies to be my first official dessert recipe because of my childhood memories of them. Every Christmas, no matter which side of my family I was with, we\'d have a big platter of cookies, and these ones with the Hershey Kisses were always my go- to!',
+  intro1_image: 'assets/media/pbcookies2.jpg',
+  intro2_title: 'So Good Year Round',
+  intro2_body: 'Despite being my favorite holiday cookie, these are delicious no matter what time of year you bake them! Admittedly I\m not even a huge fan of peanut butter, but I can never eat just one of these! Give them a try and enjoy some yourself!',
+  intro2_image: 'assets/media/pbcookies.jpg',
+  prep_time: "25- 30 minutes",
+  yield: '~25 cookies',
+  ingredients: [
+    '1/2 cup salted butter',
+    '1/2 cup peanut butter',
+    '1 cup sugar (separated in half)',
+    '1/2 cup brown sugar',
+    '1 egg',
+    '2 tbsp milk',
+    '1 tsp vanilla',
+    '1 3/4 cup flour',
+    '1 tsp baking soda',
+    '1/2 tsp salt',
+    'Optional: 1 bag (~25) Hershey Kisses'
+
+
+  ],
+
+  instructions: [
+    'Preheat oven to 375 F, cream (easiest to use a handmixer) butter and 1/2 cup sugar together.',
+    'Add peanut butter and brown sugar, mix.',
+    'Beat egg and pour it in along with vanilla and milk.',
+    'Mix dry ingredients together (flour, baking soda, and salt), and add to wet ingredients 1/3 at a time using the hand mixer.',
+    'Pour remaining 1/2 cup sugar on a plate. Form the dough into spheres, about 1 inch in size. Once formed, roll each cookie in the sugar and place on a greased cookie sheet.',
+    'Once all the cookie spheres are evenly spread out (not touching each other) on the cookie sheet, use a fork and gently press down on the tops of the spheres in perpendicular directions (this creates the "criss cross" effect on the cookies, as well as slightly flattens them to the right shape).',
+    'Bake 8-12 minutes, carefully checking until they get lightly golden brown on top. Be careful not to overcook, unless you prefer a crunchier cookie. While they bake, unwrap Hershey Kisses if desired.',
+    'When the cookies are done baking, place them on a cooling rack. Wait about 2-3 minutes for them to cool down a bit, then gently press down the Hershey Kisses on the tops so the bottoms can slightly melt into the cookie',
+    'Grab a glass of milk and enjoy!'
+
+  ]
+}
 
 ]

@@ -45,3 +45,14 @@ p {
     text-align: left;
     margin: 3%;
 }
+
+.card {
+    border: none;
+    background-color: transparent;
+    margin: auto;
+}
+
+.recipe-img {
+    width: 24rem;
+    margin-bottom: 5%;
+}

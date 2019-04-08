@@ -10,10 +10,10 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-sm-6">
 
-      <div class="media">
-        <img src="{{recipe.intro1_image}}" class="align-self-center mr-3" alt="...">
+      <div class="card text-center">
+        <img src="{{recipe.intro1_image}}" class="align-self-center mr-3 recipe-img" alt="...">
         <div class="media-body">
           <h5 class="mt-0">{{recipe.intro1_title}}</h5>
           <p>{{recipe.intro1_body}}</p>
@@ -21,19 +21,15 @@
       </div>
 
     </div>
-  </div>
-</div>
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-sm-12">
-      <div class="media">
-
+    <div class="col-sm-6">
+      <div class="card text-center">
+        <img src="{{recipe.intro2_image}}" class="align-self-center mr-3 recipe-img" alt="tacos">
         <div class="media-body">
           <h5 class="mt-0">{{recipe.intro2_title}}</h5>
           <p>{{recipe.intro2_body}}</p>
         </div>
-        <img src="{{recipe.intro2_image}}" class="align-self-center mr-3" alt="tacos">
+
       </div>
     </div>
   </div>
@@ -52,7 +48,7 @@
 
       <ul>
         <li *ngFor="let ingredient of recipe.ingredients">
-        {{ingredient}}
+          {{ingredient}}
         </li>
       </ul>
 
@@ -68,7 +64,7 @@
 
       <ol>
         <li *ngFor="let step of recipe.instructions">
-        {{step}}
+          {{step}}
         </li>
       </ol>
     </div>
