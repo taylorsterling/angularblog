@@ -195,5 +195,42 @@ export const RECIPES: Recipe[] = [
   
   
   
+  
+  
+       {
+        id: 5,
+        name: 'Caprese Skewers',
+        intro1_title: 'Easy and Addictive!',
+        intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
+        intro1_image: 'assets/media/caprese.jpg',
+        intro2_title: 'Great for Food Presentation',
+        intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
+        intro2_image: 'assets/media/caprese.jpg',
+        prep_time: "15- 20 minutes",
+        yield: '15- 20 servings',
+        ingredients: [
+          '8 oz fresh perlini mozzarella',
+          '8- 10 oz cherry tomatoes',
+          '1- 2 oz fresh basil leaves',
+          '5- 7 tbsp cup balsamic vinegar',
+     
+
+        ],
+
+        instructions: [
+          'Dump about 80% of the liquid in the tub of cheese, careful not to drop any cheese. Pour about 5-6 tbsps of balsamic vinegar into the tub, gently stir it in with the cheese, and let sit in fridge for 2-4 hours.',
+          'Slice the cherry tomatoes into halves. The quickest way to do this is to place them in an even layer on a plate, then cover with another plate. Press down hard on top of them, and very carefully slice through in between the plates until all the tomatoes have been halved.',
+          'Cut the basil leaves into small pieces, depending entirely on how much you\'d like on each skewer. I usually try to make them about the width of a tomato, but twice as long- then I fold it in half before putting on the toothpick.',
+          'Assemble the skewers by first putting 1 perlini cheese on the skewer, then the basil, then the tomato, smooth- side up first so that the sliced bottom serves as a level surface to stand the skewers up.',
+          'Optional: drizzle skewers with a little extra balsamic vinegar.',
+          'Place the skewers on a nice plate or cupcake stand, and enjoy!'
+
+        ]
+      },
+  
+  
+  
+  
+  
 
 ]
