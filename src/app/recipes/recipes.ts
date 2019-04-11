@@ -159,10 +159,10 @@ export const RECIPES: Recipe[] = [
         id: 4,
         name: 'Chocolate Mousse Cups',
         intro1_title: 'Easy & Delicious!',
-        intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
+        intro1_body: 'Although it\s not a traditional mousse recipe, it\'s just as good with a fun twist of being composed of Oreo cookies! These are so fast to make and are the perfect little amuse- bouche dessert for crowds, parties, or just for yourself!',
         intro1_image: 'assets/media/mousse.jpg',
         intro2_title: 'A Big Crowd- Pleaser',
-        intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
+        intro2_body: 'I\'ve made these plenty of times for parties and gatherings, and what I love about them is that you can make the mousse a night ahead of time, then assemble the day- of. They\'re aesthetically appealing, and if you leave them up for grabs, they\'ll be gone in the blink of an eye!',
         intro2_image: 'assets/media/mousseshooter.jpg',
         prep_time: "15- 20 minutes",
         yield: '15- 20 servings (Italian size!)',
@@ -177,17 +177,12 @@ export const RECIPES: Recipe[] = [
         ],
 
         instructions: [
-          'Fill a pot about ¾ of the way with water and put on the stove. Add salt and olive oil, then crank that heat up high so it comes to a boil.',
-          'Drizzle olive oil for the chicken into a big, non-stick pan. Turn burner on medium heat.',
-          'Carefully cut chicken into bite- sized pieces (or larger, if you prefer). Season with salt, pepper, garlic powder, and lemon pepper. Transfer to pan, and let it cook for about 3-4 minutes until the bottoms of the chicken start to turn golden- brown.',
-          'Once the water is boiling, gently add the fettuccine to the pot, and cook according to instructions (or to texture preference). When the noodles are flexible but still have a lot of bite to them, add the frozen broccoli directly into the pot with the pasta.',
-          'Sprinkle paprika and italian seasoning in the pan once you see some juice expelled from the chicken. Continue to cook on medium heat, covered and stirring occasionally, until the chicken is cooked all the way through. If the chicken starts to cook through too fast before the pasta is ready, lower the heat to a light simmer and uncover.',
-          'To start the sauce, grab a sauce pan or small pot and put it on med heat over the stove. Melt the butter, then drizzle in the olive oil, and add the white wine until it reduces to about ½.',
-          'Add the garlic to the sauce, constantly stirring until fragrant- this should only take about 10 seconds or so. Pour in the heavy cream, then season with salt and pepper. Raise the heat to med-high, and let the cream come to a gentle boil.',
-          'Once the cream is bubbling, add the cheese in small increments until you reach your desired sauce consistency, stirring steadily. Add in the Italian seasoning, and squeeze the lemon juice into the sauce, stirring and tasting until the acidity from the lemon is able to subtly cut through the richness of the sauce.',
-          'When the pasta is cooked to your liking, very carefully strain it to dump out all the water. Return the pasta to the pot, and add the cooked chicken - including its juices. Carefully pour in the sauce, and stir it well to mix the pasta, broccoli, and chicken together evenly.',
-          'Optional: Pour the Alfredo into a serving dish and sprinkle with fresh parmesan and parsley to garnish. Don’t forget to serve it with some garlic bread!'
-
+          'With a butter knife or a spoon, gently remove the filling from the Oreo cookies and set aside. Take the chocolate cookies and place them in a large freezer bag. With a rolling pin, smash the cookies in the bag until they are finely chopped up. Take about 1 cup worth and set aside.',
+          'Place the remaining cookie crumbs in a food processor. Add all of the cool whip, and just a quick squeeze of the whipped cream. Pulse until smooth.',
+          'To assemble, I like to use shot glasses (plastic ones are plentiful and cheap!) and I first start with the cookie crumbs that were set aside. Place just a little spoonful on the bottom of each cup.'
+          'Spoon the mousse into a piping bag, or another large freezer bag and cut a hole in one of the bottom corners to pipe the mousse neatly into each cup.'
+          'Top each cup with a dollop of whipped cream, a raspberry, and some mint, and enjoy!'
+          
         ]
       },
   
