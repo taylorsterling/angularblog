@@ -179,8 +179,8 @@ export const RECIPES: Recipe[] = [
         instructions: [
           'With a butter knife or a spoon, gently remove the filling from the Oreo cookies and set aside. Take the chocolate cookies and place them in a large freezer bag. With a rolling pin, smash the cookies in the bag until they are finely chopped up. Take about 1 cup worth and set aside.',
           'Place the remaining cookie crumbs in a food processor. Add all of the cool whip, and just a quick squeeze of the whipped cream. Pulse until smooth.',
-          'To assemble, I like to use shot glasses (plastic ones are plentiful and cheap!) and I first start with the cookie crumbs that were set aside. Place just a little spoonful on the bottom of each cup.'
-          'Spoon the mousse into a piping bag, or another large freezer bag and cut a hole in one of the bottom corners to pipe the mousse neatly into each cup.'
+          'To assemble, I like to use shot glasses (plastic ones are plentiful and cheap!) and I first start with the cookie crumbs that were set aside. Place just a little spoonful on the bottom of each cup.',
+          'Spoon the mousse into a piping bag, or another large freezer bag and cut a hole in one of the bottom corners to pipe the mousse neatly into each cup.',
           'Top each cup with a dollop of whipped cream, a raspberry, and some mint, and enjoy!'
           
         ]
