@@ -157,19 +157,21 @@ export const RECIPES: Recipe[] = [
   
        {
         id: 4,
-        name: 'Chocolate Mousse Cups',
+        name: 'Chocolate "Mousse" Cups',
         intro1_title: 'Easy & Delicious!',
         intro1_body: 'Although it\s not a traditional mousse recipe, it\'s just as good with a fun twist of being composed of Oreo cookies! These are so fast to make and are the perfect little amuse- bouche dessert for crowds, parties, or just for yourself!',
         intro1_image: 'assets/media/mousse.jpg',
         intro2_title: 'A Big Crowd- Pleaser',
-        intro2_body: 'I\'ve made these plenty of times for parties and gatherings, and what I love about them is that you can make the mousse a night ahead of time, then assemble the day- of. They\'re aesthetically appealing, and if you leave them up for grabs, they\'ll be gone in the blink of an eye!',
+        intro2_body: 'I\'ve made these plenty of times for parties and gatherings, and what I love about them is that you can make the mousse a night ahead of time, then assemble the day- of. They\'re aesthetically appealing, and if you leave them up for grabs, they\'ll be gone in the blink of an eye! The best part is you can make these and either freeze or refrigerate them ahead of time, so there\'s less work to do on busy days!',
         intro2_image: 'assets/media/mousseshooter.jpg',
         prep_time: "15- 20 minutes",
         yield: '15- 20 servings (Italian size!)',
         ingredients: [
           '1 package Oreo cookies',
-          '1 tub cool whip',
-          'optional: fresh mint leaves for garnish',
+          '8 oz Cool Whip (defrosted in fridge for at least 3-4 hours',
+          '1 package instant pudding mix (for this recipe, go with chocolate)',
+          '2 cups milk',
+          'optional: fresh mint for garnish',
           'optional: fresh raspberries for garnish',
           'optional: whipped cream for garnish'
      
@@ -177,8 +179,8 @@ export const RECIPES: Recipe[] = [
         ],
 
         instructions: [
-          'With a butter knife or a spoon, gently remove the filling from the Oreo cookies and set aside. Take the chocolate cookies and place them in a large freezer bag. With a rolling pin, smash the cookies in the bag until they are finely chopped up. Take about 1 cup worth and set aside.',
-          'Place the remaining cookie crumbs in a food processor. Add all of the cool whip, and just a quick squeeze of the whipped cream. Pulse until smooth.',
+          'Put about 18- 20 cookies in a food processor, and pulse until finely chopped up.',
+          'Mix wet and dry ingredients with a hand mixer until peaks are about stiff.',
           'To assemble, I like to use shot glasses (plastic ones are plentiful and cheap!) and I first start with the cookie crumbs that were set aside. Place just a little spoonful on the bottom of each cup.',
           'Spoon the mousse into a piping bag, or another large freezer bag and cut a hole in one of the bottom corners to pipe the mousse neatly into each cup.',
           'Top each cup with a dollop of whipped cream, a raspberry, and some mint, and enjoy!'
