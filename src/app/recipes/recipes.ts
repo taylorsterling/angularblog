@@ -196,13 +196,13 @@ export const RECIPES: Recipe[] = [
         id: 5,
         name: 'Caprese Skewers',
         intro1_title: 'Easy and Addictive!',
-        intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
+        intro1_body: 'These skewers require no actual cooking, just some assembling! To get the marble effect you see in the pictures, I actually marinate the perlini in balsamic vinegar. It gives the cheese itself a nice flavor, making the perfect bite off these skewers!',
         intro1_image: 'assets/media/caprese.jpg',
         intro2_title: 'Great for Large Groups',
-        intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
+        intro2_body: 'I first made these for a dinner party for my mom\'s birthday a few years ago. They were a HUGE hit, and I\'ve been making them ever since! While I make them, I usually steal one or two for myself, because once you put them out for grabs, they\'re gone in an instant!',
         intro2_image: 'assets/media/caprese2.jpg',
         prep_time: "15- 20 minutes",
-        yield: '15- 20 servings',
+        yield: '25- 30 skewers',
         ingredients: [
           '8 oz fresh perlini mozzarella',
           '8- 10 oz cherry tomatoes',
@@ -213,7 +213,7 @@ export const RECIPES: Recipe[] = [
         ],
 
         instructions: [
-          'Dump about 80% of the liquid in the tub of cheese, careful not to drop any cheese. Pour about 5-6 tbsps of balsamic vinegar into the tub, gently stir it in with the cheese, and let sit in fridge for 2-4 hours.',
+          'Dump about 80% of the liquid in the tub of cheese, careful not to drop any cheese. Pour about 5-6 tbsps of balsamic vinegar into the tub, gently stir it in with the cheese, and let sit in fridge for 2-4 hours. This step is optional, but I find that marinating the cheese in the balsamic vinegar gives it that sweet/ acidic flavor without overpowering the cheese. If you\'d rather drizzle some on after they are assembled, feel free to skip this step.',
           'Slice the cherry tomatoes into halves. The quickest way to do this is to place them in an even layer on a plate, then cover with another plate. Press down hard on top of them, and very carefully slice through in between the plates until all the tomatoes have been halved.',
           'Cut the basil leaves into small pieces, depending entirely on how much you\'d like on each skewer. I usually try to make them about the width of a tomato, but twice as long- then I fold it in half before putting on the toothpick.',
           'Assemble the skewers by first putting 1 perlini cheese on the skewer, then the basil, then the tomato, smooth- side up first so that the sliced bottom serves as a level surface to stand the skewers up.',
