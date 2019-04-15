@@ -198,9 +198,9 @@ export const RECIPES: Recipe[] = [
         intro1_title: 'Easy and Addictive!',
         intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
         intro1_image: 'assets/media/caprese.jpg',
-        intro2_title: 'Great for Food Presentation',
+        intro2_title: 'Great for Large Groups',
         intro2_body: 'I\'m sure you\'ve seen plenty of Alfredo recipes. There are Southern versions that start with a roux, some that use heavy cream, and \n even some that use cream cheese. Well, my recipe incorporates a lot of ingredients, and some may not even seem like a traditional, "Alfredo". Perhaps not \n, but if it\'s not delicious I don\'t know what is. Overall, this recipe is pretty easy to make. It\'s best served with cheesy garlic bread, so I strongly suggest having some \n on hand before cooking!',
-        intro2_image: 'assets/media/caprese.jpg',
+        intro2_image: 'assets/media/caprese2.jpg',
         prep_time: "15- 20 minutes",
         yield: '15- 20 servings',
         ingredients: [
