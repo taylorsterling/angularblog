@@ -171,9 +171,9 @@ export const RECIPES: Recipe[] = [
           '8 oz Cool Whip (defrosted in fridge for at least 3-4 hours',
           '1 package instant pudding mix (for this recipe, go with chocolate)',
           '2 cups milk',
-          'optional: fresh mint for garnish',
-          'optional: fresh raspberries for garnish',
-          'optional: whipped cream for garnish'
+          'optional garnishes: whipped cream, raspberries, fresh mint',
+          '**OF NOTE** if using tall or skinny shot glasses, I highly recommend grabbing some little dessert spoons (plasticware) so guests can reach all the way in to get everything- from top to bottom!'
+          
      
 
         ],
