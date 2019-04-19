@@ -18,6 +18,7 @@ import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.com
 import { FoodtastingComponent } from './pets/foodtasting/foodtasting.component';
 import { BearrescueComponent } from './pets/bearrescue/bearrescue.component';
 import { FiggystoryComponent } from './pets/figgystory/figgystory.component';
+import { StreamingComponent } from './gaming/streaming/streaming.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { FiggystoryComponent } from './pets/figgystory/figgystory.component';
     RecipeDetailComponent,
     FoodtastingComponent,
     BearrescueComponent,
-    FiggystoryComponent
+    FiggystoryComponent,
+    StreamingComponent
   ],
   imports: [
     BrowserModule,
