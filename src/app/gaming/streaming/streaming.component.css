@@ -1,7 +1,4 @@
 
-.align-self-center {
-    width: 22%;
-}
 
 .media {
     margin: 3%;
@@ -54,6 +51,11 @@ p {
     margin: 0 auto;
 }
 
-.card-img-top {
+
+.align-self-center {
     width: 24rem;
+}
+
+.mr-3 {
+  margin-right: 0!important;
 }
