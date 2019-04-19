@@ -229,5 +229,48 @@ export const RECIPES: Recipe[] = [
   
   
   
+  
+  
+         {
+        id: 6,
+        name: 'Pesto Chicken Tenders',
+        intro1_title: 'Simple and Ready in 30 Minutes!',
+        intro1_body: 'Moderately healthy, this chicken is baked until tender, and covered with delicious pesto and covered with cheese. How could you pass on this? Especially when it only takes about a half hour!',
+        intro1_image: 'assets/media/caprese.jpg',
+        intro2_title: 'Perfect for Leftovers',
+        intro2_body: 'I always try to make a big batch of these so there\'s plenty left to bring to work for lunch the next day. It\'s one of the few foods that actually heats up really well as leftovers, so these are always a go- to for us. We think it goes best with some egg noodles on the side, but feel free to serve it with whatever feels right!',
+        intro2_image: 'assets/media/caprese2.jpg',
+        prep_time: "30-35 minutes",
+        yield: '8-10 chicken tenders',
+        ingredients: [
+          '1 large package of boneless, skinless chicken breast tenders (8-10 pieces of chicken)',
+          '1 cup Pesto (we either make it fresh, or get a 7oz tub of Buitoni basil pesto)',
+          '1 lemon for squeezing',
+          'salt and pepper to taste',
+          '1 tbsp extra virgin olive oil',
+          '1 tbsp Italian seasoning',
+          '1 tbsp garlic powder',
+          '1 tbsp garlic salt',
+          '1 cup shredded mozzarella cheese'
+     
+
+        ],
+
+        instructions: [
+          'Preheat the oven to 375F',
+          'Spread half the pesto along the bottom of an 8"x11" glass baking dish. Squeeze about a quarter of the lemon, and mix it into the pesto.',
+          'Place the chicken over the pesto, then drizzle with olive oil, then spread the remaining pesto over the top.',
+          'Sprinkle about another 1/4 worth of lemon juice, then season with salt, pepper, Italian seasoning, and garlic.',
+          'Cover the dish with foil, and bake about 25 minutes.',
+          'Pull the chicken out, and season with garlic salt if you\'re like me and can\'t get enough garlic.',
+          'Sprinkle cheese over the chicken in an even layer, then bake uncovered until cheese is melted (about 5 minutes).',
+          'Serve with some Al- Dente egg noodles and enjoy!'
+
+        ]
+      },
+  
+  
+  
+  
 
 ]
