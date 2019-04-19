@@ -46,11 +46,19 @@ p {
     margin: 3%;
 }
 
+
 .card {
     border: none;
     background-color: transparent;
-    margin: auto;
+    align-self: center;
+    margin: 0 auto;
 }
+
+.card-img-top {
+    width: 71%;
+}
+
+
 
 .recipe-img {
     width: 24rem;
