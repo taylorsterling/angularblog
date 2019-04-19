@@ -236,10 +236,10 @@ export const RECIPES: Recipe[] = [
         name: 'Pesto Chicken Tenders',
         intro1_title: 'Simple and Ready in 30 Minutes!',
         intro1_body: 'Moderately healthy, this chicken is baked until tender, and covered with delicious pesto and covered with cheese. How could you pass on this? Especially when it only takes about a half hour!',
-        intro1_image: 'assets/media/caprese.jpg',
+        intro1_image: 'assets/media/pestochicken1.jpg',
         intro2_title: 'Perfect for Leftovers',
         intro2_body: 'I always try to make a big batch of these so there\'s plenty left to bring to work for lunch the next day. It\'s one of the few foods that actually heats up really well as leftovers, so these are always a go- to for us. We think it goes best with some egg noodles on the side, but feel free to serve it with whatever feels right!',
-        intro2_image: 'assets/media/caprese2.jpg',
+        intro2_image: 'assets/media/pestochicken2.jpg',
         prep_time: "30-35 minutes",
         yield: '8-10 chicken tenders',
         ingredients: [
