@@ -2,10 +2,6 @@
     width: 22%;
 }
 
-.media {
-    margin: 3%;
-
-}
 
 h1 {
     font-family: 'Prata', serif;
@@ -53,12 +49,6 @@ p {
     align-self: center;
     margin: 0 auto;
 }
-
-.card-img-top {
-    width: 71%;
-}
-
-
 
 .recipe-img {
     width: 24rem;
