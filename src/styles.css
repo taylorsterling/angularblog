@@ -89,15 +89,4 @@ p {
 }
 
 
-/* Global card image- center CSS */
 
-.card {
-    border: none;
-    background-color: transparent;
-    align-self: center;
-    margin: 0 auto;
-}
-
-.card-img-top {
-    width: 71%;
-}
