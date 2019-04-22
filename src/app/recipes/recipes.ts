@@ -272,5 +272,61 @@ export const RECIPES: Recipe[] = [
   
   
   
+  
+  
+  
+  
+  
+  
+  
+           {
+        id: 7,
+        name: 'Chicken Picatta with Fettuccine',
+        intro1_title: 'Easy peasy, lemon- squeezy!',
+        intro1_body: 'Personally, my favorite dishes have lemon juice in them, and this meal is no exception. Here we have lightly fried chicken in a lemon and white wine sauce topped with capers and served with some fettuccine. The white wine is optional, but I love the extra flavor it adds, so I\'ll include it in the list of ingredients.',
+        intro1_image: 'assets/media/picatta.jpg',
+        intro2_title: 'Feels Fancy, but is Super Easy!',
+        intro2_body: 'This plate looks and tastes like it came straight out of a high- end Italian restaurant, but it only takes about 30 minutes and is really simple to make! Anyone can be a chef with my Chicken Picatta recipe!',
+        intro2_image: 'assets/media/picatta.jpg',
+        prep_time: "25-30 minutes",
+        yield: '4 servings',
+        ingredients: [
+          '1/2 box Barilla fettucine',
+          '4 thinly- sliced chicken breasts',
+          'salt and pepper to taste',
+          '1 cup flour',
+          '1 tbsp Italian seasoning',
+          '1 tbsp garlic powder',
+          '4 tbsp cup extra virgin olive oil',
+          '4 tbsp butter',
+          '1/4 cup dry white wine (I use Chardonnay)',
+          '1/3 cup chicken stock',
+          '1 tbsp minced garlic',
+          '2 tbsp capers',
+          '2 small lemons or 1 large lemon'
+     
+
+        ],
+
+        instructions: [
+          'Boil a pot of water, and add about a tablespoon of salt, and a quick drizzle of extra virgin olive oil. Cook pasta according to package instructions.'
+          'Mix flour, Italian seasoning, and garlic powder and spread evenly on a plate.',
+          'Season both sides of each chicken breast with salt and pepper, then dredge through the flour mixture.',
+          'Drizzle a shallow frying pan with half the olive oil, and melt 2 tablespoons of butter over medium- high heat.',
+          'Gently place 2 chicken breasts in the pan and cook about 3-4 minutes on each side, or until golden and cooked all the way through.',
+          'Place the cooked chicken aside, and drizzle the remaining olive oil and melt the other 2 tablespoons of butter in the same pan. Cook the last 2 chicken breasts and set aside.',
+          'To make the sauce- using the same pan, add the white wine and let it simmer about 2 minutes.',
+          'Add the garlic, chicken stock, and capers, and simmer about 2-3 minutes.',
+          'Squeeze in about 1/4 to 1/3 cup of lemon juice (to taste), and stir well.',
+          'Place one piece of cooked chicken on a plate, along with 1/4 of the pasta. Pour the sauce over the whole plate and enjoy!'
+
+        ]
+      },
+  
+  
+  
+  
+  
+  
 
 ]
