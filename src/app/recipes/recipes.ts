@@ -216,11 +216,11 @@ export const RECIPES: Recipe[] = [
 
         instructions: [
           'Dump about 80% of the liquid in the tub of cheese, careful not to drop any cheese. Pour about 5-6 tbsps of balsamic vinegar into the tub, gently stir it in with the cheese, and let sit in fridge for 2-4 hours. This step is optional, but I find that marinating the cheese in the balsamic vinegar gives it that sweet/ acidic flavor without overpowering the cheese. If you\'d rather drizzle some on after they are assembled, feel free to skip this step.',
-          'Slice the cherry tomatoes into halves. The quickest way to do this is to place them in an even layer on a plate, then cover with another plate. Press down hard on top of them, and very carefully slice through in between the plates until all the tomatoes have been halved.',
+          'Slice the cherry tomatoes into halves (unless you\'d prefer to lay the skewers down, rather than have them standing up). The quickest way to do this is to place them in an even layer on a plate, then cover with another plate. Press down hard on top of them, and very carefully slice through in between the plates until all the tomatoes have been halved.',
           'Cut the basil leaves into small pieces, depending entirely on how much you\'d like on each skewer. I usually try to make them about the width of a tomato, but twice as long- then I fold it in half before putting on the toothpick.',
-          'Assemble the skewers by first putting 1 perlini cheese on the skewer, then the basil, then the tomato, smooth- side up first so that the sliced bottom serves as a level surface to stand the skewers up.',
-          'Optional: drizzle skewers with a little extra balsamic vinegar.',
-          'Place the skewers on a nice plate or cupcake stand, and enjoy!'
+          'Assemble the skewers by first putting 1 perlini cheese on the skewer, then the basil, then the tomato, \'skin\'- side up first so that the flat bottom serves as a level surface to stand the skewers up. If you didn\'t slice the tomatoes to stand the skewers upright, then just lay them in an even layer on a serving dish.',
+          'If you want a little more flavor, drizzle the skewers with a little extra balsamic vinegar, and enjoy!'
+          
 
         ]
       },
