@@ -282,10 +282,10 @@ export const RECIPES: Recipe[] = [
            {
         id: 7,
         name: 'Chicken Picatta with Fettuccine',
-        intro1_title: 'Easy peasy, lemon- squeezy!',
+        intro1_title: 'Easy Peasy, Lemon- Squeezy!',
         intro1_body: 'Personally, my favorite dishes have lemon juice in them, and this meal is no exception. Here we have lightly fried chicken in a lemon and white wine sauce topped with capers and served with some fettuccine. The white wine is optional, but I love the extra flavor it adds, so I\'ll include it in the list of ingredients.',
         intro1_image: 'assets/media/picatta.jpg',
-        intro2_title: 'Feels Fancy, but is Super Easy!',
+        intro2_title: 'Feels Fancy, but Only Takes 30 Minutes!',
         intro2_body: 'This plate looks and tastes like it came straight out of a high- end Italian restaurant, but it only takes about 30 minutes and is really simple to make! Anyone can be a chef with my Chicken Picatta recipe!',
         intro2_image: 'assets/media/picatta.jpg',
         prep_time: "25-30 minutes",
