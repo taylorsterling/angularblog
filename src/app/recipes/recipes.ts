@@ -309,7 +309,7 @@ export const RECIPES: Recipe[] = [
         ],
 
         instructions: [
-          'Boil a pot of water, and add about a tablespoon of salt, and a quick drizzle of extra virgin olive oil. Cook pasta according to package instructions.'
+          'Boil a pot of water, and add about a tablespoon of salt, and a quick drizzle of extra virgin olive oil. Cook pasta according to package instructions.',
           'Mix flour, Italian seasoning, and garlic powder and spread evenly on a plate.',
           'Season both sides of each chicken breast with salt and pepper, then dredge through the flour mixture.',
           'Drizzle a shallow frying pan with half the olive oil, and melt 2 tablespoons of butter over medium- high heat.',
@@ -324,6 +324,49 @@ export const RECIPES: Recipe[] = [
       },
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   {
+        id: 8,
+        name: 'Strawberry Banana Crepes',
+        intro1_title: 'Tricky to Nail, but Perfect Once You Do!',
+        intro1_body: 'The main recipe to follow in this is the actual crepe recipe itself. It\'s a relatively simple one to put together, but creating the perfect shape and texture crepe can be a little tricky. I always make extra batter just in case!',
+        intro1_image: 'assets/media/crepe.jpg',
+        intro2_title: 'A Fun Way to Customize Dessert',
+        intro2_body: 'So in this recipe I use chocolate, Nutella, strawberries, and bananas, but once you get the crepe dough down, you can dress them up with whatever fruits and toppings you like! It\'s such a versatille dessert, and it\'s fun to let kids make their own, too!',
+        intro2_image: 'assets/media/crepe.jpg',
+        prep_time: "10-15 minutes",
+        yield: '4 servings',
+        ingredients: [
+          'flour',
+          'water',
+          'egg',
+          'Ghiradelli Chocolate Sauce',
+          'Nutella spread',
+          'strawberries',
+          'bananas',
+          'whipped cream'
+
+     
+
+        ],
+
+        instructions: [
+          'Make the dough',
+          'Cook the dough in a pan',
+          'Add toppings'
+         
+
+        ]
+      },
   
   
   
