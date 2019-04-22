@@ -1,6 +1,7 @@
 export class Recipe {
     id: number;
     name: string;
+    pinterest_description: string;
     intro1_title: string;
     intro1_body: string;
     intro1_image: string;
@@ -10,6 +11,5 @@ export class Recipe {
     prep_time: string;
     yield: string;
     ingredients: string[];
-    // optional_ingredients: string[];
     instructions: string[];
   }
