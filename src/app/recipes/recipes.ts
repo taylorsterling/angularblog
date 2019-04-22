@@ -85,7 +85,7 @@ export const RECIPES: Recipe[] = [
         ],
 
         instructions: [
-          'Fill a pot about ¾ of the way with water and put on the stove. Add salt and olive oil, then crank that heat up high so it comes to a boil.',
+          'Fill a pot about ¾ of the way with water and put on the stove. Add the salt and olive oil, then crank that heat up high so it comes to a boil.',
           'Drizzle olive oil for the chicken into a big, non-stick pan. Turn burner on medium heat.',
           'Carefully cut chicken into bite- sized pieces (or larger, if you prefer). Season with salt, pepper, garlic powder, and lemon pepper. Transfer to pan, and let it cook for about 3-4 minutes until the bottoms of the chicken start to turn golden- brown.',
           'Once the water is boiling, gently add the fettuccine to the pot, and cook according to instructions (or to texture preference). When the noodles are flexible but still have a lot of bite to them, add the frozen broccoli directly into the pot with the pasta.',
