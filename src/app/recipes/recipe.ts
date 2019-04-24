@@ -1,7 +1,6 @@
 export class Recipe {
     id: number;
     name: string;
-    pinterest_description: string;
     intro1_title: string;
     intro1_body: string;
     intro1_image: string;

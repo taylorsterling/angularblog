@@ -4,7 +4,6 @@ export const RECIPES: Recipe[] = [
     {
         id: 1,
         name: 'Chicken Tacos',
-        pinterest_description: 'The perfect chicken tacos that take no more than 30 minutes',
         intro1_title: 'An Easy Take on an All- Time Favorite',
         intro1_body: 'My husband, who grew up in Mexico, always knows how to make the best tacos- delicious tacos with marinated meats, fresh produce, and homemade tortillas. Said tacos usually take hours or more to prepare, leaving us too drained to partake in our beloved Taco Tuesdays.\n Thankfully, he found a way to incorporate some fresh Mexican flavors into a 20- minute chicken taco so we can enjoy our favorite tortilla- wrapped cuisine any night of the week!',
         intro1_image: 'assets/media/tacochicken.jpg',
@@ -50,7 +49,6 @@ export const RECIPES: Recipe[] = [
       {
         id: 2,
         name: 'Chicken Alfredo with Broccoli',
-        pinterest_description: 'Chicken, broccoli, and fettuccine in a thick, cheesey Alfredo sauce',
         intro1_title: 'From Humble Beginnings',
         intro1_body: 'This recipe started out in college, when it was cheap to buy pasta, chicken, and add some heavy cream and parmesan. For years since then,\n I\'ve been working to perfect it, and at last I believe my recipe is ready to share with the world! \n Creamy, cheesy, and oh so comforting, this recipe is NOT okay for you to make if you\'re trying to eat healthy. The only \n healthy thing about it is the broccoli I add... but it is SO worth it on a cheat day!',
         intro1_image: 'assets/media/pasta.jpg',
@@ -114,7 +112,6 @@ export const RECIPES: Recipe[] = [
 {
   id: 3,
   name: 'Peanut Butter Cookies',
-  pinterest_description: 'Warm, delicious peanut butter cookies!',
   intro1_title: 'A Holiday Classic',
   intro1_body: 'I\'ve had this one since high school! After baking cookies in HomeEc, I decided to adapt a few recipes we had to create the PERFECT peanut butter cookie recipe! I chose these cookies to be my first official dessert recipe because of my childhood memories of them. Every Christmas, no matter which side of my family I was with, we\'d have a big platter of cookies, and these ones with the Hershey Kisses were always my go- to!',
   intro1_image: 'assets/media/pbcookies2.jpg',
@@ -161,7 +158,6 @@ export const RECIPES: Recipe[] = [
        {
         id: 4,
         name: 'Chocolate "Mousse" Cups',
-        pinterest_description: 'Oreo chocolate, "Mousse," cups',
         intro1_title: 'Easy & Delicious!',
         intro1_body: 'Although it\s not a traditional mousse recipe, it\'s just as good with a fun twist of being composed with Oreo cookies! These are so fast to make and are the perfect little amuse- bouche dessert for crowds, parties, or just for yourself!',
         intro1_image: 'assets/media/mousse.jpg',
@@ -201,7 +197,6 @@ export const RECIPES: Recipe[] = [
        {
         id: 5,
         name: 'Caprese Skewers',
-        pinterest_description: 'Fresh mozzarella, cherry tomatoes, and sweet basil. The perfect party appetizer!',
         intro1_title: 'Easy and Addictive!',
         intro1_body: 'These skewers require no actual cooking, just some assembling! To get the marble effect you see in the pictures, I actually marinate the perlini in balsamic vinegar. It gives the cheese itself a nice flavor, making the perfect bite off these skewers!',
         intro1_image: 'assets/media/caprese.jpg',
@@ -239,7 +234,6 @@ export const RECIPES: Recipe[] = [
          {
         id: 6,
         name: 'Pesto Chicken Tenders',
-        pinterest_description: 'One- pan chicken tenders with pesto and cheese',
         intro1_title: 'Simple and Ready in 30 Minutes!',
         intro1_body: 'Moderately healthy, this chicken is baked until tender, and covered with delicious pesto and covered with cheese. How could you pass on this? Especially when it only takes about a half hour!',
         intro1_image: 'assets/media/pestochicken1.jpg',
@@ -288,7 +282,6 @@ export const RECIPES: Recipe[] = [
            {
         id: 7,
         name: 'Chicken Picatta with Fettuccine',
-        pinterest_description: 'Lemony chicken picatta with capers and pasta',
         intro1_title: 'Easy Peasy, Lemon- Squeezy!',
         intro1_body: 'Personally, my favorite dishes have lemon juice in them, and this meal is no exception. Here we have lightly fried chicken in a lemon and white wine sauce topped with capers and served with some fettuccine. The white wine is optional, but I love the extra flavor it adds, so I\'ll include it in the list of ingredients.',
         intro1_image: 'assets/media/picatta.jpg',
@@ -344,7 +337,6 @@ export const RECIPES: Recipe[] = [
    {
         id: 8,
         name: 'Strawberry Banana Crepes',
-        pinterest_description: 'Sweet crepes with strawberries, bananas, and chocolate',
         intro1_title: 'Tricky to Nail, but Perfect Once You Do!',
         intro1_body: 'The main recipe to follow in this is the actual crepe recipe itself. It\'s a relatively simple one to put together, but creating the perfect shape and texture crepe can be a little tricky. I always make extra batter just in case!',
         intro1_image: 'assets/media/crepe.jpg',
