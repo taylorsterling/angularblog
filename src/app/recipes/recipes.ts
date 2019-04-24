@@ -346,23 +346,14 @@ export const RECIPES: Recipe[] = [
         prep_time: "10-15 minutes",
         yield: '4 servings',
         ingredients: [
-          'flour',
-          'water',
-          'egg',
-          'Ghiradelli Chocolate Sauce',
-          'Nutella spread',
-          'strawberries',
-          'bananas',
-          'whipped cream'
+          'Details coming soon!'
 
      
 
         ],
 
         instructions: [
-          'Make the dough',
-          'Cook the dough in a pan',
-          'Add toppings'
+          'Details coming soon!'
          
 
         ]
