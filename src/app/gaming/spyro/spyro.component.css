@@ -30,19 +30,7 @@ p {
     margin: 3%;
 }
 
-.optional {
-    font-family: 'Prata', serif;
-    font-size: 1.2rem;
-    text-align: left;
-    margin-left: 3%
-}
 
-.ingredients {
-    font-family: 'Prata', serif;
-    font-size: .9rem;
-    text-align: left;
-    margin: 3%;
-}
 
 .card {
     border: none;
