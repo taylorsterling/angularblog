@@ -44,9 +44,6 @@ h1 {
 
 }
 
-.align-self-center {
-    width: 22%;
-}
 
 h5 {
     font-family: 'Playfair Display', serif;
@@ -63,5 +60,15 @@ p {
 .card {
     border: none;
     background-color: transparent;
-    margin: auto;
+    align-self: center;
+    margin: 0 auto;
+}
+
+
+.align-self-center {
+    width: 24rem;
+}
+
+.mr-3 {
+  margin-right: 0!important;
 }
