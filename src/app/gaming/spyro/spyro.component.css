@@ -1,7 +1,4 @@
 
-.align-self-center {
-    width: 22%;
-}
 
 .media {
     margin: 3%;
@@ -45,4 +42,20 @@ p {
     font-size: .9rem;
     text-align: left;
     margin: 3%;
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+    align-self: center;
+    margin: 0 auto;
+}
+
+
+.align-self-center {
+    width: 24rem;
+}
+
+.mr-3 {
+  margin-right: 0!important;
 }
