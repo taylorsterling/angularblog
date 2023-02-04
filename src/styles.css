@@ -1,33 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
 
 body {
-
-    
-    background-color: #34ADFF;
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
-    min-height: 700px;
-
+    background-image: url("assets/media/wood.png")
 
 }
 
-.my-container{
-    width: 100vw;
-    height: 100vh;
-    
-  }
 
 .navbar {
-    background-color: rgb(192, 188, 188);
-
+    background-color: rgb(173, 173, 216)!important;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(119, 71, 141);
+    font-family: 'Prata', serif;
 }
 
 .navbar-dark .navbar-nav .nav-link {
     color: white;
 }
 
-a {
-    color: black;
-}
 
 a:hover {
     color: #cecece;
@@ -50,43 +39,39 @@ a:not([href]):not([tabindex]) {
     margin-left: 0!important;
 }
 
-
-.header {
-    margin-top: 3%;
-    margin-bottom: 3%;
-}
-
 h1 {
     font-family: 'Prata', serif;
-    font-size: 2.8rem;
+    font-size: 3rem;
     text-align: center;
 }
 
-.row1 {
-    margin-bottom: 3%;
-}
+h2 {
 
-.carousel {
-    width: 62%;
-    align-self: center;
-}
+    font-family: Parisienne;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 2%;
 
-#landing {
-    margin-top: 3%;
-    
 }
 
 h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Prata';
     font-size: 1.6rem;
     text-align: center;
+    margin-bottom: 2%;
 }
 
 p {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
+h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    text-align: center;
+    color: black;
+}
 
 
