@@ -8,6 +8,32 @@
     margin-top: 5%;
 }
 
+.jumbotron {
+  background-image: url("/../assets/media/cooking.jpg");
+  background-size: cover;
+  background-position: fixed;
+  padding: 12%;
+}
+
+.welcome {
+  color: white;
+  text-align: left;
+  text-shadow: 1px 1px 1px black;
+  font-size: 4vw;
+  margin-left: 14%;
+  margin-bottom: 0;
+}
+
+.jumbotext {
+  margin: auto;
+}
+
+.jumbologo {
+  width: 80%;
+  text-align: center;
+  margin-left: 14%;
+}
+
 .carousel {
     width: 100%;
     align-self: center;
