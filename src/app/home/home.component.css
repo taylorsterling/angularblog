@@ -29,7 +29,7 @@
 }
 
 .jumbologo {
-  width: 80%;
+  width: 75%;
   text-align: center;
   margin-left: 14%;
 }
@@ -87,11 +87,7 @@ background-color: transparent;
 align-self: center;
 margin: 0 auto;
 border-width: 0;
-background-color: rgba(255, 94, 0, 0.1);
 margin-bottom: 2%;
-border-bottom-style: solid;
-border-bottom-width: 1px;
-border-bottom-color:  rgb(255, 94, 0);
 }
 
 .card.text 
