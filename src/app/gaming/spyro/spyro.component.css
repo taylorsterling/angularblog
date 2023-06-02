@@ -19,6 +19,13 @@ h1 {
     margin-right: 5%;
 }
 
+.spyroba {
+    float: left;
+    margin-left: 3%;
+    margin-right: 5%;
+    width: 40%;
+}
+
 .hleft {
     font-family: 'Playfair Display', serif;
     font-size: 1.4rem;
