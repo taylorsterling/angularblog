@@ -17,13 +17,15 @@ h1 {
     float: left;
     margin-left: 3%;
     margin-right: 5%;
+    width: 50%;
+
 }
 
 .spyroba {
     float: left;
     margin-left: 3%;
     margin-right: 5%;
-    width: 40%;
+    width: 50%;
 }
 
 .hleft {
@@ -40,7 +42,7 @@ h1 {
 }
 
 .georgepic {
-    width: 40%;
+    width: 50%;
     float: right;
     margin-left: 5%;
     margin-right: 3%;
